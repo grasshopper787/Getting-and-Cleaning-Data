@@ -1,4 +1,4 @@
-##Code Book
+###Code Book
 
 The R script "run_analysis.R" performs the following to clean up the data:
 
